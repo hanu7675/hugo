@@ -1,0 +1,132 @@
+banner:
+  title: Hi! I’m Hanumanth
+  
+social:
+  
+  linkedin: lingalahanumanth
+  github: hanu7674
+  gitlab: 
+  facebook: Hanu7674
+  instagram: hanu7674
+  gmail: hanumanth.lingala
+  kaggle: hanu7674
+  stackoverflow: "9997545"
+  medium: hanu7674
+  twitter: hanu7674
+  
+about:
+  enable: true
+  content: Final Year Computer Science student at KSRM College of Engineering.
+  button:
+    btnText: Find out more
+    URL: /about
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png
+      description: Details coming soon, contact me if you want to know more
+    - title: Python
+      logo: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Java
+      logo: https://image.flaticon.com/icons/svg/226/226777.svg
+      description: Details coming soon, contact me if you want to know more
+      
+      
+Internships:
+  enable: true
+  item:
+    - logo: https://reonsphere.com/assets/img/nav/logo.svg
+      title: Web Developer
+      company: Reonsphere
+      duration: Jun 2020 - Aug 2020
+      
+portfolio:
+  enable: false
+  item:
+    - title: Easy DMARC
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
+      description: A website to make it easy to add DMARC to a Vercel website
+      link: "/portfolio/easy-dmarc"
+      tools:
+        - next-dot-js
+        - tailwindcss
+        - vercel
+     
+experience:
+  enable: false
+  item:
+    - logo: https://reonsphere.com/assets/img/nav/logo.svg
+      title: Web Developer Internship
+      company: Reonsphere
+      duration: Jun 2020 - Aug 2020
+   
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none 
+      
+certifications:
+  enable: true
+  item:
+    - title: Python for Everybody
+      image: https://library.kissclipart.com/20180918/oq/kissclipart-university-of-michigan-logo-clipart-university-of-d87153b650737ec3.png
+      url: https://www.coursera.org/account/accomplishments/certificate/GQSPWDH82XFM
+    
+    - title: Web Designing Using Reactjs 
+      image: https://www.apssdc.in/home/images/apssdc_final.png
+      url: https://drive.google.com/file/d/1yHmGEv7LZ3oqmRZlTAgELebjy6vN6e04/view?usp=sharing
+      
+awards:
+  enable: false
+  item:
+    - title: Phase 1 Winner
+      event: GNOME Community Engagement Challenge
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1595701167/CEChallenge-P1Winner2_iyjvyu.png
+      
+education:
+  enable: true
+  item:
+    - title: B.Tech Computer Science
+      year: 2017 - Present
+      academy: KSRM College of Engineering
+      image: https://www.lsfindia.co.in/img/15.jpg
+    
+    - title: Intermediate (MPC)
+      year: 2015 - 2017 
+      academy: Narayana Jr College Pulivendula
+      image: https://newsmeter.in/wp-content/uploads/2020/02/narayana-college.jpeg
+    - title: SSC
+      year: 2014 - 2015
+      academy: Zilla Parishad High School
+      image: https://sites.google.com/site/zphsvemula1962/_/rsrc/1500539327155/home/FB_IMG_14841289205705646.jpg
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+

@@ -1,0 +1,74 @@
+# Base information
+baseURL = "localhost:35999"
+languageCode = "en-gb"
+title = "Hanumanth"
+theme ="portfolio"
+googleAnalytics = ""
+
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+
+
+# navigation
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  URL = "/about/"
+  weight=1
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight=2
+
+  [[menu.main]]
+  name = "Portfolio"
+  URL = "portfolio"
+  weight=3
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight=4
+
+
+[params]
+home = "Home"
+# Meta data
+description = "I'm Hanumanth. I am a keen learner and believe in interdisciplinary approach to understanding the world. I'm currently an undergraduate studying Computer Science Engineering from K.S.R.M College of Engineering ,Y.S.R Kadapa ,A.P"
+author = "HANUMANTH"
+
+
+  [params.contact]
+  enable = true
+  formAction = "" #contact form works with formspree.io
+
+  [params.footer]
+  email = "hanumanth.lingala@gmail.com"
+  address = "Pulivendula, India"
+  googlemaps = "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8436.748221915248!2d78.34568313099194!3d14.374647615567275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1592202354982!5m2!1sen!2sin"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "rainbow_dash"
+    tabWidth = 4
+
